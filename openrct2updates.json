@@ -32,7 +32,7 @@
         "UpdateStageName":"OpenRCT2 Download",
         "UpdateSourcePlatform":"Linux",
         "UpdateSource":"GithubRelease",
-        "UpdateSourceData":"OpenRCT2-{{ReleaseVersion}}-linux-x86_64.AppImage",
+        "UpdateSourceData":"OpenRCT2-0.4.6-linux-x86_64.AppImage",
         "UpdateSourceArgs":"OpenRCT2/OpenRCT2",
         "UpdateSourceTarget":"{{$FullBaseDir}}",
         "UnzipUpdateSource":false,
