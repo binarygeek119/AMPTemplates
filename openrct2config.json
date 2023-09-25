@@ -199,6 +199,7 @@
             "./rct1game/Scenarios/SC40.SC4":"RCT1: Whispering Cliffs",
             "./rct1game/Scenarios/sc9.sc4":"RCT1: White Water Park",
             "./rct1game/Scenarios/SC83.SC4":"RCT1: Woodworm Park",
+            "./user-data/scenario/New Geek.park":"New Geek",
             "./user-data/scenario/{{CustomScenario}}":"--Custom--"
         }
     },
