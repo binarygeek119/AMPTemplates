@@ -55,7 +55,7 @@
         "FieldName":"Scenario",
         "InputType":"enum",
         "ParamFieldName":"Scenario",
-        "DefaultValue":"./user-data/scenario/New Geek.park",
+        "DefaultValue":"./rct2game/Scenarios/Crazy Castle.SC6",
         "EnumValues":{
             "./rct2game/Scenarios/Africa - African Diamond Mine.SC6":"RCT2: Africa - African Diamond Mine",
             "./rct2game/Scenarios/Africa - Oasis.SC6":"RCT2: Africa - Oasis",
@@ -198,7 +198,7 @@
             "./rct1game/Scenarios/SC31.SC4":"RCT1: Wacky Warren",
             "./rct1game/Scenarios/SC40.SC4":"RCT1: Whispering Cliffs",
             "./rct1game/Scenarios/sc9.sc4":"RCT1: White Water Park",
-            "./rct1game/Scenarios/SC83.park":"RCT1: Woodworm Park",
+            "./rct1game/Scenarios/SC83.SC4":"RCT1: Woodworm Park",
             "./user-data/scenario/\"{{CustomScenario}}\"":"--Custom--"
         }
     },
@@ -211,8 +211,8 @@
         "InputType":"text",
         "ParamFieldName":"CustomScenario",
         "IncludeInCommandLine":false,
-        "DefaultValue":"New Geek.park",
-        "Placeholder":"New Geek.park",
+        "DefaultValue":"",
+        "Placeholder":"Banshee Mountain.sc6",
         "EnumValues":{}
     },
     {
